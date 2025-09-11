@@ -78,10 +78,17 @@ Sou **estudante de Data Science** e **desenvolvedor full stack** apaixonado por 
 
 ## 🚀 Projetos Destacados
 
-### 🔍 [Nome do Projeto](link-do-projeto)
-Breve descrição do projeto e tecnologias utilizadas.
+### 🔍 [API node.js](https://github.com/Lstark10/desafio-api-nodejs)
 
-**Tech Stack:** `Python` `React` `Node.js`
+**Tech Stack:** `Node.js`
+
+### 🔍 [Modelo IA supervisionado](https://github.com/Lstark10/modelo-ia-topicos-avancados-em-aprendizado-supervisionado)
+
+**Tech Stack:** `Python`
+
+### 🔍 [Modelo IA Árvore de decisão](https://github.com/Lstark10/modelo-ia-classificacao-arvore-decisao)
+
+**Tech Stack:** `Python`
 
 ---
 
