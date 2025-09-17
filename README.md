@@ -10,7 +10,7 @@
 
 Sou **estudante de Data Science** e **desenvolvedor full stack** apaixonado por transformar dados em insights e criar soluções web escaláveis. Combinando conhecimentos em **IA**, **desenvolvimento web** e **DevOps**, busco sempre entregar produtos de alta qualidade e performance.
 
-- 🔭 Atualmente estudando **Inteligência Artificial** e **Análise de Dados**
+- 🔭 Atualmente estudando **Inteligência Artificial** e **Ciência de Dados**
 - 🌱 Aprimorando habilidades em **React.js** e **Node.js**
 - 💡 Interessado em **IA** e **Desenvolvimento Web**
 - 🎯 Focado em **qualidade de código** e **boas práticas**
